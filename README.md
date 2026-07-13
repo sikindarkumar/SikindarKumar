@@ -1,9 +1,12 @@
-<!-- === Profile Views Badge === -->
-<p align="right"> 
-  <img src="https://komarev.com/ghpvc/?username=sikindarkumar&label=Profile%20Views&style=flat" alt="Profile Views" /> 
-</p>
+<div align="center">
+  
+# 👨‍💻 Sikindar Kumar
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=Hey+There!+👋;+I'm+Sikindar+Kumar!;)
+</div>
 
 <!-- === Rainbow Line Decorator === -->
+
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" height="" style="display:inline;">
 <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
@@ -12,12 +15,12 @@
 <p align="center">
   <a href="#" target="_blank">
         <p align="center">
-    <img alt="Header Banner" width="550" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXhydXBjcmJkbHBvenp0bmJubG80aTBuNWJxenh0c2t2cjEzMThicCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+    <img alt="Header Banner" width="400" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXhydXBjcmJkbHBvenp0bmJubG80aTBuNWJxenh0c2t2cjEzMThicCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 </a>
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=60&duration=4000&lines=Hi+There!+👋;+I'm+Sikindar+Kumar!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code+Righteous&size=35&center=true&vCenter=true&width=500&height=60&duration=4000&lines=Namaste+🙏;A+Passionate+Web+Developer;Programmer%7C+Problem+Solver;+AI/ML+%26+Tech+Enthusiast" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">
@@ -27,7 +30,7 @@
 <!-- === Typing Animation: Developer Skills === -->
  <p align="center">
   <a href="https://github.com/jrohitofficial">
-    <img src="https://raw.githubusercontent.com/sikindarkumar/sikindarkumar/master/animated-footer-bar.gif" alt="Animated footer bars" width="60%"/>
+    <img src="https://raw.githubusercontent.com/sikindarkumar/sikindarkumar/master/animated-footer-bar.gif" alt="Animated footer bars" width="35%"/>
   </a>
 </p>
 
@@ -37,14 +40,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=20C20E&center=true&vCenter=true&width=900&height=30&lines=Namaste+🙏;A+Passionate+Web+Developer;Programmer+%7C+Problem+Solver;+AI/ML+%26+Tech+Enthusiast" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/jrohitofficial">
-    <img src="https://raw.githubusercontent.com/sikindarkumar/sikindarkumar/master/animated-footer-bar.gif" alt="Animated footer bars" width="60%"/>
+    <img src="https://raw.githubusercontent.com/sikindarkumar/sikindarkumar/master/animated-footer-bar.gif" alt="Animated footer bars" width="45%"/>
   </a>
 </p>
 
@@ -58,17 +55,19 @@
 - 🚀 Building **real-world scalable projects**
 - 🎯 Goal: Become a **Software Engineer at FAANG-level company**
 - ⚡ Passionate about **DSA, Web Development, and AI/ML**
+- 💻 Visit my [Portfolio](https://kiran1689.github.io) for more details about me.
 
 - 👨‍💻 All of my projects are available at [https://github.com/sikindarkumar?tab=repositories](https://github.com/sikindarkumar?tab=repositories)
 
 - 📫 How to reach me **sikindar.contact@gmail.com**
 
 ---
+<!--End Intro-->
 
 <!-- ================= CONNECT WITH ME ================= -->
 # 🌐 Let's Connect
 
-<div align="">
+<div align="center">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sikindar.contact@gmail.com&su=Subject&body=MessageBody" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Gmail" />
   </a>
@@ -114,35 +113,36 @@
 <img src="https://gh-trophy.cdnsoft.net/?username=sikindarkumar&theme=algolia&column=-1" alt="GitHub_Trophies" />  
 
 <!-- ================= TECH STACK ================= -->
-# 🚀 Tech Stack
+# 🚀 Tech Stack & Tools
 
-<div align="center">
-
+<div align="centre">
 <table>
 <tr>
-<td align="center" width="33%">
-
+<td align="center" width="25%">
+  
 ### Frontend
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
-
 </td>
 
-<td align="center" width="33%">
-
+<td align="center" width="25%">
+  
 ### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,php" />
-
+<img src="https://skillicons.dev/icons?i=nodejs,nextjs,express,typescript" />
+</td>
+<br>
+<td align="center" width="25%"> 
+  
+### Databases  
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,php" />
 </td>
 
-<td align="center" width="33%">
-
+<td align="center" width="25%">
+  
 ### Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify" />
 </td>
 </tr>
 </table>
-
 </div>
 
 ---
@@ -152,9 +152,9 @@
 
 <div align="center">
 
-<img height="120em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sikindarkumar&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img weightt="50%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sikindarkumar&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="110em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sikindarkumar&layout=compact&theme=tokyonight&hide_border=true"/>
+<img weight="50%" height="" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sikindarkumar&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -195,7 +195,6 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sikindarkumar&theme=tokyonight&cache_seconds=86400"/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sikindarkumar&theme=tokyonight"/>
-
 </div>
 
 ---
@@ -204,10 +203,16 @@
 # 🧠 Competitive Programming
 
 <div align="center">
+  
+<!-- Badges Row -->
+<p align="left">
+  <img src="https://img.shields.io/badge/dynamic/json?color=ffa116&label=LeetCode%20Solved&query=totalSolved&url=https%3A%2F%2Fleetcode-api-faisalshohag.vercel.app%2Fsikindarkumar&style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge" />
+</p> 
 
-<img src="https://img.shields.io/badge/dynamic/json?color=ffa116&label=LeetCode%20Solved&query=totalSolved&url=https%3A%2F%2Fleetcode-api-faisalshohag.vercel.app%2Fsikindarkumar&style=for-the-badge&logo=leetcode&logoColor=white"/>
-
-<img src="https://leetcard.jacoblin.cool/sikindarkumar?theme=dark&font=Fira%20Code&ext=contest"/>
+<!-- Cards Row -->
+<p align="left">
+  <img src="https://leetcard.jacoblin.cool/sikindarkumar?theme=dark&font=Fira%20Code&ext=contest" height="175" alt="LeetCode Stats" />
+</p>
 
 </div>
 
@@ -218,14 +223,14 @@
 
 <div align="center">
 
-<a href="https://github.com/sikindarkumar/Personal Portfolio Website">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sikindarkumar&repo=Personal Portfolio Website&theme=tokyonight&hide_border=true" alt="Personal Portfolio Website" />
+<a href="https://github.com/sikindarkumar/sikindarkumar">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sikindarkumar&repo=sikindarkumar&theme=tokyonight&hide_border=true" alt="Personal Portfolio Website" />
 </a>
-
 </div>
 
 ---
 
+<!-- ================= THANKYOU SECTION ================= -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/sikindarkumar/sikindarkumar/master/thankyou.svg" alt="Thanks for Visiting..." width="100%" />
 </p>
@@ -233,7 +238,7 @@
 <!-- ================= CONNECT WITH ME ================= -->
 # 🌐 Let's Connect
   
-<div align="">
+<div align="center">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sikindar.contact@gmail.com&su=Subject&body=MessageBody" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Gmail" />
   </a>
@@ -270,4 +275,21 @@
 <a href="https://geeksforgeeks.com/sikindarkumar" target="_blank">
   <img src="https://img.shields.io/badge/GfG-000000?style=for-the-badge&logo=gfg" style="vertical-align:center" alt="GfG" />
  </a>
+</div>
+
+---
+
+<!-- ================= FOOTER SECTION================= -->
+<div align="center"> 
+
+### 🔒 [Licence: MIT](https://github.com/sikindarkumar/sikindarkumar/blob/main/LICENSE) &copy; 2026 <a href="https://www.linkedin.com/in/sikindarkumar" target="_blank">Sikindar Kumar</a> • All Rights Reserved
+
+![Profile Views](https://komarev.com/ghpvc/?username=sikindarkumar&color=00ff00&style=flat-square&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/sikindarkumar?label=Followers&style=flat-square&color=00ff00)](https://github.com/sikindarkumar)
+
+**❤️ Designed by : <a href="https://www.linkedin.com/in/sikindarkumar" target="_blank">Sikindar Kumar</a>**
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" />
 </div>
