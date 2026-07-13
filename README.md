@@ -12,7 +12,7 @@
 <p align="center">
   <a href="#" target="_blank">
         <p align="center">
-    <img alt="Header Banner" width="550" height="175" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXhydXBjcmJkbHBvenp0bmJubG80aTBuNWJxenh0c2t2cjEzMThicCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+    <img alt="Header Banner" width="550" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXhydXBjcmJkbHBvenp0bmJubG80aTBuNWJxenh0c2t2cjEzMThicCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 </a>
 </div>
 
@@ -49,7 +49,6 @@
 </p>
 
 <!-- ================= ABOUT ================= -->
-
 # 👨‍💻 About Me
 
 🎓 MCA Student at IIIT Ranchi x IIT Patna | 💻 Full-Stack Developer | 🧠 Problem Solver | 🚀 Future Software Engineer  
@@ -67,8 +66,7 @@
 ---
 
 <!-- ================= CONNECT WITH ME ================= -->
-
-# 🌐 Connect With Me
+# 🌐 Let's Connect
 
 <div align="">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sikindar.contact@gmail.com&su=Subject&body=MessageBody" target="_blank">
@@ -112,13 +110,10 @@
 ---
 
 <!-- ================= GITHUB TROPHY ================= -->
-
 ## 🏆 My GitHub Trophy
 <img src="https://gh-trophy.cdnsoft.net/?username=sikindarkumar&theme=algolia&column=-1" alt="GitHub_Trophies" />  
 
-
 <!-- ================= TECH STACK ================= -->
-
 # 🚀 Tech Stack
 
 <div align="center">
@@ -153,19 +148,17 @@
 ---
 
 <!-- ================= GITHUB ANALYTICS ================= -->
-
 # 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sikindarkumar&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="120em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sikindarkumar&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sikindarkumar&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="110em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sikindarkumar&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <!-- ================= CONTRIBUTION STREAK ================= -->
-
 # 🔥 Contribution Streak
 
 <div align="center">
@@ -175,7 +168,6 @@
 </div>
 
 <!-- ================= ACTIVITY GRAPH ================= -->
-
 # 📈 Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sikindarkumar&theme=tokyo-night&hide_border=true"/>
@@ -183,22 +175,19 @@
 ---
 
 <!-- ================= CONTRIBUTION SNAKE ================= -->
-
 # 🐍 Contribution Snake
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sikindarkumar/sikindarkumar/output/github-contribution-grid-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/sikindarkumar/sikindarkumar/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sikindarkumar/sikindarkumar/refs/heads/output/github-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/sikindarkumar/sikindarkumar/refs/heads/output/github-snake.svg">
 </picture>
-
 </div>
 
 ---
 
 <!-- ================= GLOBAL DEVELOPER ANALYTICS ================= -->
-
 # 🌍 Global Developer Analytics
 
 <div align="center">
@@ -212,7 +201,6 @@
 ---
 
 <!-- ================= COMPETITIVE PROGRAMMING ================= -->
-
 # 🧠 Competitive Programming
 
 <div align="center">
@@ -226,7 +214,6 @@
 ---
 
 <!-- ================= FEATURED PROJECTS ================= -->
-
 # 💼 Featured Projects
 
 <div align="center">
@@ -244,7 +231,7 @@
 </p>
 
 <!-- ================= CONNECT WITH ME ================= -->
-# 🌐 Connect With Me
+# 🌐 Let's Connect
   
 <div align="">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sikindar.contact@gmail.com&su=Subject&body=MessageBody" target="_blank">
