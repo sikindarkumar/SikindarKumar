@@ -1,63 +1,64 @@
-<div>
+<!-- === Profile Views Badge === -->
+<p align="right"> 
+  <img src="https://komarev.com/ghpvc/?username=sikindarkumar&label=Profile%20Views&style=flat" alt="Profile Views" /> 
+</p>
+
+<!-- === Rainbow Line Decorator === -->
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%" height="" style="display:inline;">
+<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%" style="display:inline;">
+
+<!-- ================= HEADER BANNER ================= -->
+<div> 
 <p align="center">
   <a href="#" target="_blank">
         <p align="center">
-    <img alt="Coding" width="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGxxNDl3OWNxZHpoM2k4MGh3a3VmcDNtN2hnaXVxd3BrNW52NW01dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MBVRgrfOBPeH5zNWJU/giphy.gif">
-    </a>
+    <img alt="Header Banner" width="475" height="225" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXhydXBjcmJkbHBvenp0bmJubG80aTBuNWJxenh0c2t2cjEzMThicCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+</a>
 </div>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sikindar+Kumar!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=60&duration=4000&lines=Hi+There!+👋;+I'm+Sikindar+Kumar!;" />
 </h1>
 
 <h3 align="center">
-   <b>MCA'27 @IITP x IIITR • Full-Stack (MERN) Developer • Programmer</b>
+   <b>MCA'27 @ IIIT Ranchi [Academic Collab With IIT Patna] • Full-Stack (MERN) Developer • Programmer</b>
 </h3>
 
-<!-- Typing Animation: Developer Skills -->
-
-<p align="center">
-  <a href="https://github.com/sikindarkumar">
-    <img src="https://github.com/sikindarkumar/SikindarKumar/blob/master/animated-footer-bar.gif" alt="Animated footer bars" width="100%"/>
+<!-- === Typing Animation: Developer Skills === -->
+ <p align="center">
+  <a href="https://github.com/jrohitofficial">
+    <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif" alt="Animated footer bars" width="60%"/>
   </a>
 </p>
 
 <p align="center">
-  "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।
-  मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि॥"
+  " कर्मण्येवाधिकारस्ते मा फलेषु कदाचन। <br>
+    मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि॥ "
 </p>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=20C20E&center=true&vCenter=true&width=900&height=40&lines=Namaste+🙏;A+Passionate+Web+Developer;Programmer+%7C+AI/ML+&+Tech+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=20C20E&center=true&vCenter=true&width=900&height=30&lines=Namaste+🙏;A+Passionate+Web+Developer;Programmer+%7C+Problem+Solver;+AI/ML+%26+Tech+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/sikindarkumar">
-    <img src="https://github.com/sikindarkumar/SikindarKumar/blob/master/animated-footer-bar.gif" alt="Animated footer bars" width="100%"/>
+  <a href="https://github.com/jrohitofficial">
+    <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif" alt="Animated footer bars" width="60%"/>
   </a>
 </p>
 
-<!-- Optional: Profile Views Badge -->
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=sikindarkumar&label=Profile%20Views&style=flat" alt="Profile Views" /> 
-</p>
-
 <!-- ================= ABOUT ================= -->
----
 
 # 👨‍💻 About Me
 
-🎓 MCA Student at IIT Patna | 💻 Full-Stack Developer | 🧠 Problem Solver | 🚀 Future Software Engineer  
+🎓 MCA Student at IIIT Ranchi x IIT Patna | 💻 Full-Stack Developer | 🧠 Problem Solver | 🚀 Future Software Engineer  
 
 - 🌱 Learning **Advanced Full-Stack Development**
 - 🧠 Active **Competitive Programming problem solver**
 - 🚀 Building **real-world scalable projects**
 - 🎯 Goal: Become a **Software Engineer at FAANG-level company**
 - ⚡ Passionate about **DSA, Web Development, and AI/ML**
-
 
 - 👨‍💻 All of my projects are available at [https://github.com/sikindarkumar?tab=repositories](https://github.com/sikindarkumar?tab=repositories)
 
@@ -66,61 +67,57 @@
 ---
 
 <!-- ================= CONNECT WITH ME ================= -->
----
 
 # 🌐 Connect With Me
 
-<div align="center">
+<div align="">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sikindar.contact@gmail.com&su=Subject&body=MessageBody" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Gmail" />
   </a>
-  
   <a href="https://www.linkedin.com/in/sikindarkumar" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="LinkedIn logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=Linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Linkedin" />
   </a>
-
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel)](#)
-
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github)](https://github.com/sikindarkumar)
-
-  <a href="https://discord.com/users/sikindarkumar" target="_blank">
-    <img src="https://img.shields.io/badge/discord-000?style=for-the-badge&logo=discord&logoColor=4e5d94" style="vertical-align:center" alt="Discord logo"/>
+<a href="https://github.com.com/sikindarkumar" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github" style="vertical-align:center" alt="GitHub"/>
   </a>
-
+<a href="https://discord.com/users/sikindarkumar" target="_blank">
+    <img src="https://img.shields.io/badge/discord-000?style=for-the-badge&logo=discord&logoColor=4e5d94" style="vertical-align:center" alt="Discord"/>
+  </a>
 <a href="https://instagram.com/sikindar.iitp" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" alt="instagram logo"/>
+  <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" alt="Instagram"/>
 </a>
-
 <a href="https://facebook.com/sikindarkumar" target="_blank">
-  <img src="https://img.shields.io/badge/facebook-000?style=for-the-badge&logo=facebook&logoColor=3b5998" style="vertical-align:center" alt="facebook" />
-</a>
-
-<a href="https://x.com/isikindar" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="X logo" />
-</a>
-
+  <img src="https://img.shields.io/badge/facebook-000?style=for-the-badge&logo=facebook&logoColor=3b5998" style="vertical-align:center" alt="Facebook" />
+ </a>
+  <a href="https://x.com/isikindar" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-000?logo=X&logoColor=white&style=for-the-badge" style="vertical-align:center" alt="X"/>
+  </a>
 <a href="https://www.youtube.com/@sikindariitp" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube%20-000?style=for-the-badge&logo=youtube&logoColor=red" style="vertical-align:center" alt="youtube"/>
-</a>
-
+  <img src="https://img.shields.io/badge/YouTube%20-000?style=for-the-badge&logo=youtube&logoColor=red" style="vertical-align:center" alt="YouTube"/>
+ </a>
 <a href="https://wa.me/+91" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="WhatsApp logo" />
+  <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="WhatsApp" />
 </a>
-
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?&logo=vercel&logoColor=white&style=for-the-badge" style="vertical-align:center" alt="Portfolio" />
+ </a>
+<a href="https://leetcode.com/sikindarkumar" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode" style="vertical-align:center" alt="Leetcode" />
+ </a>
+<a href="https://geeksforgeeks.com/sikindarkumar" target="_blank">
+  <img src="https://img.shields.io/badge/GfG-000000?style=for-the-badge&logo=gfg" style="vertical-align:center" alt="GfG" />
+ </a>
 </div>
 
 ---
 
 <!-- ================= GITHUB TROPHY ================= -->
----
 
 ## 🏆 My GitHub Trophy
 <img src="https://gh-trophy.cdnsoft.net/?username=sikindarkumar&theme=algolia&column=-1" alt="GitHub_Trophies" />  
 
----
 
 <!-- ================= TECH STACK ================= -->
----
 
 # 🚀 Tech Stack
 
@@ -156,7 +153,6 @@
 ---
 
 <!-- ================= GITHUB ANALYTICS ================= -->
----
 
 # 📊 GitHub Analytics
 
@@ -169,7 +165,6 @@
 </div>
 
 <!-- ================= CONTRIBUTION STREAK ================= -->
----
 
 # 🔥 Contribution Streak
 
@@ -180,7 +175,6 @@
 </div>
 
 <!-- ================= ACTIVITY GRAPH ================= -->
----
 
 # 📈 Activity Graph
 
@@ -189,15 +183,14 @@
 ---
 
 <!-- ================= CONTRIBUTION SNAKE ================= -->
----
 
 # 🐍 Contribution Snake
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sikindarkumar/SikindarKumar/output/github-contribution-grid-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/sikindarkumar/SikindarKumar/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sikindarkumar/sikindarkumar/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/sikindarkumar/sikindarkumar/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
@@ -205,7 +198,6 @@
 ---
 
 <!-- ================= GLOBAL DEVELOPER ANALYTICS ================= -->
----
 
 # 🌍 Global Developer Analytics
 
@@ -220,7 +212,6 @@
 ---
 
 <!-- ================= COMPETITIVE PROGRAMMING ================= -->
----
 
 # 🧠 Competitive Programming
 
@@ -235,7 +226,6 @@
 ---
 
 <!-- ================= FEATURED PROJECTS ================= -->
----
 
 # 💼 Featured Projects
 
@@ -250,5 +240,5 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sikindarkumar/SikindarKumar/thankyou.svg" alt="Thanks for Visiting..." width="100%" />
+  <img src="https://raw.githubusercontent.com/sikindarkumar/sikindarkumar/thankyou.svg" alt="Thanks for Visiting..." width="100%" />
 </p>
