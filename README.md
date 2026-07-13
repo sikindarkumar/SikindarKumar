@@ -24,7 +24,7 @@
 </h1>
 
 <h3 align="center">
-   <b>MCA'27 @ IIIT Ranchi [Academic Collab With IIT Patna] • Full-Stack (MERN) Developer • Programmer</b>
+   <b>MCA'27 @ IIIT Ranchi x IIT Patna • Full-Stack (MERN) Developer • Programmer</b>
 </h3>
 
 <!-- === Typing Animation: Developer Skills === -->
@@ -55,11 +55,11 @@
 - 🚀 Building **real-world scalable projects**
 - 🎯 Goal: Become a **Software Engineer at FAANG-level company**
 - ⚡ Passionate about **DSA, Web Development, and AI/ML**
-- 💻 Visit my [Portfolio](https://kiran1689.github.io) for more details about me.
+- 💻 Visit my [Portfolio](#) for more details about me.
 
-- 👨‍💻 All of my projects are available at [https://github.com/sikindarkumar?tab=repositories](https://github.com/sikindarkumar?tab=repositories)
+- 👨‍💻 All of my projects are available at [GitHub Repositories](https://github.com/sikindarkumar?tab=repositories)
 
-- 📫 How to reach me **sikindar.contact@gmail.com**
+- 📫 How to reach-out me **sikindar.contact@gmail.com**
 
 ---
 <!--End Intro-->
