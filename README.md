@@ -4,15 +4,15 @@
 </p>
 
 <!-- === Rainbow Line Decorator === -->
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%" height="" style="display:inline;">
-<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%" style="display:inline;">
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" height="" style="display:inline;">
+<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <!-- ================= HEADER BANNER ================= -->
 <div> 
 <p align="center">
   <a href="#" target="_blank">
         <p align="center">
-    <img alt="Header Banner" width="475" height="225" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXhydXBjcmJkbHBvenp0bmJubG80aTBuNWJxenh0c2t2cjEzMThicCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+    <img alt="Header Banner" width="550" height="175" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXhydXBjcmJkbHBvenp0bmJubG80aTBuNWJxenh0c2t2cjEzMThicCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 </a>
 </div>
 
@@ -27,7 +27,7 @@
 <!-- === Typing Animation: Developer Skills === -->
  <p align="center">
   <a href="https://github.com/jrohitofficial">
-    <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif" alt="Animated footer bars" width="60%"/>
+    <img src="https://raw.githubusercontent.com/sikindarkumar/sikindarkumar/master/animated-footer-bar.gif" alt="Animated footer bars" width="60%"/>
   </a>
 </p>
 
@@ -44,7 +44,7 @@
 
 <p align="center">
   <a href="https://github.com/jrohitofficial">
-    <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif" alt="Animated footer bars" width="60%"/>
+    <img src="https://raw.githubusercontent.com/sikindarkumar/sikindarkumar/master/animated-footer-bar.gif" alt="Animated footer bars" width="60%"/>
   </a>
 </p>
 
@@ -158,9 +158,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sikindarkumar&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sikindarkumar&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sikindarkumar&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="171em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sikindarkumar&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -170,7 +170,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sikindarkumar&theme=cyber-streakglow&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&card_width=600&card_height=200&v=1)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sikindarkumar&theme=cyber-streakglow&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&card_width=800&card_height=250&v=1)](https://git.io/streak-stats)
 
 </div>
 
@@ -232,7 +232,7 @@
 <div align="center">
 
 <a href="https://github.com/sikindarkumar/Personal Portfolio Website">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sikindarkumar&repo=Personal Portfolio Website&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sikindarkumar&repo=Personal Portfolio Website&theme=tokyonight&hide_border=true" alt="Personal Portfolio Website" />
 </a>
 
 </div>
@@ -240,5 +240,47 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sikindarkumar/sikindarkumar/thankyou.svg" alt="Thanks for Visiting..." width="100%" />
+  <img src="https://raw.githubusercontent.com/sikindarkumar/sikindarkumar/master/thankyou.svg" alt="Thanks for Visiting..." width="100%" />
 </p>
+
+<!-- ================= CONNECT WITH ME ================= -->
+# 🌐 Connect With Me
+  
+<div align="">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sikindar.contact@gmail.com&su=Subject&body=MessageBody" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/sikindarkumar" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=Linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Linkedin" />
+  </a>
+<a href="https://github.com.com/sikindarkumar" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github" style="vertical-align:center" alt="GitHub"/>
+  </a>
+<a href="https://discord.com/users/sikindarkumar" target="_blank">
+    <img src="https://img.shields.io/badge/discord-000?style=for-the-badge&logo=discord&logoColor=4e5d94" style="vertical-align:center" alt="Discord"/>
+  </a>
+<a href="https://instagram.com/sikindar.iitp" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" alt="Instagram"/>
+</a>
+<a href="https://facebook.com/sikindarkumar" target="_blank">
+  <img src="https://img.shields.io/badge/facebook-000?style=for-the-badge&logo=facebook&logoColor=3b5998" style="vertical-align:center" alt="Facebook" />
+ </a>
+  <a href="https://x.com/isikindar" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-000?logo=X&logoColor=white&style=for-the-badge" style="vertical-align:center" alt="X"/>
+  </a>
+<a href="https://www.youtube.com/@sikindariitp" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube%20-000?style=for-the-badge&logo=youtube&logoColor=red" style="vertical-align:center" alt="YouTube"/>
+ </a>
+<a href="https://wa.me/+91" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="WhatsApp" />
+</a>
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?&logo=vercel&logoColor=white&style=for-the-badge" style="vertical-align:center" alt="Portfolio" />
+ </a>
+<a href="https://leetcode.com/sikindarkumar" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode" style="vertical-align:center" alt="Leetcode" />
+ </a>
+<a href="https://geeksforgeeks.com/sikindarkumar" target="_blank">
+  <img src="https://img.shields.io/badge/GfG-000000?style=for-the-badge&logo=gfg" style="vertical-align:center" alt="GfG" />
+ </a>
+</div>
